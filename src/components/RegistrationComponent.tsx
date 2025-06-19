@@ -1,3 +1,7 @@
 export const RegistrationComponent = () => {
-	return <div>RegistrationComponent</div>
+	return (
+		<>
+			<h1>Hello</h1>
+		</>
+	)
 }
